@@ -21,4 +21,4 @@ This is Project for deep machine learning at Chalmers.
 
 [Poster](https://github.com/chuanchuan-Dong/Boundaries-Informed-Transformer-for-Terrain-Segmentation-with-Enhanced-Contour-Detection/blob/master/Poster.pdf)
 
-[Poster](https://github.com/chuanchuan-Dong/Boundaries-Informed-Transformer-for-Terrain-Segmentation-with-Enhanced-Contour-Detection/blob/master/Boundaries-Informed%20Transformer%20for%20Terrain%20Segmentation.pdf)
+[report](https://github.com/chuanchuan-Dong/Boundaries-Informed-Transformer-for-Terrain-Segmentation-with-Enhanced-Contour-Detection/blob/master/Boundaries-Informed%20Transformer%20for%20Terrain%20Segmentation.pdf)
